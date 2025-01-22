@@ -1,3 +1,6 @@
+# Client Program Flowchart
+
+```mermaid
 graph TD
     A[Start Client Program] --> B[Create Socket]
     B --> C[Initialize Server Address]
